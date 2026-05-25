@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userstringify",
+        "uuid": 1154835,
+        "checksum": "y7jgl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
